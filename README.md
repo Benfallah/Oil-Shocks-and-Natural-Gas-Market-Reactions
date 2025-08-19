@@ -47,10 +47,6 @@ This is also a personal learning project, showing my workflow in **R (tidyverse 
 
 ---
 
-## Notes
-- This is **not production code** — it is meant as an academic exercise and portfolio piece.  
-- All results depend on the input dataset.  
-- The cleaned script is written in my personal coding style: **clear names, reproducible paths, tidy pipelines.**
 
 ---
 
